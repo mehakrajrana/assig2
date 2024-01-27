@@ -1,0 +1,54 @@
+body, ul, li, div, p, span, h1, h2, h3, h4, h5, h6, i, a {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.mydiv {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.mynav {
+    background-color: aquamarine;
+}
+
+.hero-text h1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+.product-area .col-md-4 {
+    flex: 0 0 calc(20% - 20px);
+    margin-bottom: 50px;
+}
+
+.product-area .item-img {
+    border: 1px solid saddlebrown;
+    height: 500px;
+    width: 50%;
+}
+
+.footer {
+    background-color: aqua;
+    margin-top: 50px;
+}
+
+.space-after {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
